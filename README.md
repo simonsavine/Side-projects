@@ -1,2 +1,2 @@
-# text-based-game
-Fun personal project, use of inheritance and classes.
+# Personal projects
+Fun personal projects!
